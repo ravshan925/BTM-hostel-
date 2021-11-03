@@ -1,0 +1,28 @@
+/* FOOTER  */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  font-family: sans-serif;
+  min-width: 1200px;
+}
+.crl {
+  clear: both;
+}
+#main-footer {
+  color: #ffffff;
+  background: #444;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+#main-footer p {
+  margin: 0;
+  padding: 20px 0;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}
